@@ -1,9 +1,7 @@
-﻿////////////////////////////////////////////////////////////////////////////////
-//                   ArcSoft FaceEngine SDK 		                      //        
-////////////////////////////////////////// /////////////////////////////////////
+![face](https://user-images.githubusercontent.com/37928802/76507908-86e97c80-6488-11ea-954b-b9e402b72615.png)
 
 Introduction:
-ArcSoft FaceEngine SDK provides the universal interfaces to detect the face information of face, like face detection, age estimation, gender estimation,face angle detection,face liveness detection,ir face liveness detection,face recognition.
+FaceEngine SDK provides the universal interfaces to detect the face information of face, like face detection, age estimation, gender estimation,face angle detection,face liveness detection,ir face liveness detection,face recognition.
 
 Publish date:
 06/05/2019
