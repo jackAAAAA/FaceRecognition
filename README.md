@@ -25,8 +25,6 @@ Known issues:
 None.
 
 File List:
-|---doc
-|   |---ARCSOFT_ARC_FACE_DEVELOPER'S_GUIDE.pdf  Developer's guide
 |   |---ArcFaceAPI-Android.zip	JavaDoc
 |---libs
 |   |---armeabi-v7a
@@ -35,7 +33,6 @@ File List:
 |   |--arcsoft_face.jar			Library
 |---samplecode
 |   |---ArcfaceDemo
-|---releasenotes.txt
 
 
 Change Logs:
